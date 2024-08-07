@@ -38,5 +38,6 @@ Contribuições são sempre bem-vindas! Se você tiver alguma sugestão ou encon
 
 <div align="center">
   <img src="https://seeklogo.com/images/I/instituto-federal-do-parana-logo-BF04AAA077-seeklogo.com.png" alt="Logo IFPR">
-</div>div>
+</div>
+
 **By Fushisuno**
